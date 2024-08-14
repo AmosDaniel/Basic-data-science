@@ -1,3 +1,6 @@
+# start doing this project on 4 July 2024
+# finish this project with presentation on 11 July 2024
+
 import datetime
 from os.path import exists
 
